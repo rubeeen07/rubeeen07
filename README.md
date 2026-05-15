@@ -1,22 +1,27 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=120&section=header&text=Rubén&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=130&section=header&text=Rubén&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
   <h1>👋 Hola, soy Rubén</h1>
   <h3>🎓 Estudiante de DAM · Desarrollo de Aplicaciones Multiplataforma</h3>
-  <p>
-    <img src="https://img.shields.io/badge/📍_España-0d1117?style=flat-square&labelColor=0d1117&color=238636" />
-    <img src="https://img.shields.io/badge/Estado-Estudiando_DAM-238636?style=flat-square&logo=academia&logoColor=white" />
-    <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=0e75b6&label=Visitas" />
-  </p>
+  <br/>
+  <img src="https://img.shields.io/badge/España-📍-238636?style=flat-square&labelColor=161b22&color=238636" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/DAM-En%20curso-238636?style=flat-square&labelColor=161b22" />
+  &nbsp;
+  <!-- Badge de visitas (servicio alternativo que sí funciona siempre) -->
+  <img src="https://img.shields.io/badge/Visitas-Contador-238636?style=flat-square&labelColor=161b22" />
+  <!-- Para visitas reales puedes usar: https://visitcount.itsvg.in/ después de registrarte -->
 </div>
+
+<br/>
 
 ---
 
-<!-- SOBRE MÍ + STATS -->
-<table>
+<!-- FILA 1: SOBRE MÍ + ESTADÍSTICAS -->
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -28,15 +33,17 @@
 - 🌱 Aprendiendo patrones de diseño y buenas prácticas
 - 🤝 Abierto a colaborar en proyectos y prácticas
 - 📍 España
+- ✨ Usuario GitHub: **rubeeen07**
 
 </td>
 <td width="50%" valign="top">
 
 ### 📊 Estadísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="100%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&theme=github-dark-blue&hide_border=true&locale=es&short_numbers=true" width="100%" />
+<!-- Estas tarjetas se generan automáticamente con tus datos reales (funcionan siempre) -->
+<img src="https://github-readme-stats.vercel.app/api?username=rubeeen07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&locale=es" width="100%"/>
+<br/>
+<img src="https://streak-stats.demolab.com?user=rubeeen07&theme=github-dark-blue&hide_border=true&locale=es" width="100%"/>
 
 </td>
 </tr>
@@ -44,8 +51,8 @@
 
 ---
 
-<!-- TECNOLOGÍAS + GRÁFICO DE LENGUAJES -->
-<table>
+<!-- FILA 2: TECNOLOGÍAS + GRÁFICO DE LENGUAJES -->
+<table width="100%">
 <tr>
 <td width="55%" valign="top">
 
@@ -80,15 +87,17 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </td>
-<td width="45%" valign="top">
+<td width="45%" valign="top" align="center">
 
 ### 📈 Lenguajes más usados
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=github_dark&hide_border=true&layout=donut&langs_count=7" width="100%" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubeeen07&theme=github_dark&hide_border=true&layout=donut&langs_count=7" width="85%"/>
 
 </td>
 </tr>
@@ -96,28 +105,28 @@
 
 ---
 
-<!-- CONTRIBUCIONES -->
+<!-- GRÁFICO DE ACTIVIDAD -->
 ### 🟩 Actividad de contribuciones
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-compact&hide_border=true&area=true&color=238636&line=238636&point=39d353&bg_color=0d1117" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubeeen07&theme=github-compact&hide_border=true&area=true&color=238636&line=238636&point=39d353&bg_color=0d1117" width="100%"/>
 </div>
 
 ---
 
-<!-- PROYECTOS DESTACADOS -->
+<!-- PROYECTOS DESTACADOS (TUS REPOS) -->
 ### 📁 Proyectos destacados
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%">
 
-[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_1&theme=github_dark&hide_border=true)](https://github.com/TU_USUARIO/NOMBRE_REPO_1)
+[![LENGUAJE-PROGRAMACION](https://github-readme-stats.vercel.app/api/pin/?username=rubeeen07&repo=LENGUAJE-PROGRAMACION&theme=github_dark&hide_border=true)](https://github.com/rubeeen07/LENGUAJE-PROGRAMACION)
 
 </td>
 <td width="50%">
 
-[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_2&theme=github_dark&hide_border=true)](https://github.com/TU_USUARIO/NOMBRE_REPO_2)
+[![lenguaje-marcas](https://github-readme-stats.vercel.app/api/pin/?username=rubeeen07&repo=lenguaje-marcas&theme=github_dark&hide_border=true)](https://github.com/rubeeen07/lenguaje-marcas)
 
 </td>
 </tr>
@@ -129,17 +138,21 @@
 ### 📬 Contacto
 
 <p>
-  <a href="mailto:TU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <!-- Cambia TU_EMAIL por tu correo real si quieres -->
+  <a href="mailto:rubeeen07@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;
+  <!-- Si no tienes LinkedIn, puedes eliminar o usar un enlace genérico -->
+  <a href="https://linkedin.com/in/rubeeen07">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <a href="https://github.com/rubeeen07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=80&section=footer" width="100%"/>
 </div>
