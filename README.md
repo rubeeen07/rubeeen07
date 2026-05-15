@@ -29,11 +29,15 @@
 
 ---
 
-## 🧠 Lenguajes más utilizados
+## 🚀 Tecnologías
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubeeen07&theme=tokyonight)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,mysql" />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rubeeen07&theme=tokyonight)
+<p align="center">
+  XML • XSD • JSON • JavaFX
+</p>
 
 ---
 
