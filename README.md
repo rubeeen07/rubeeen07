@@ -1,55 +1,85 @@
-# Hola Soy Rubén
+# 👋 Welcome to Rubén's Hub
 
-🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="180" style="border-radius:50%" />
+</p>
 
-💻 Actualmente trabajando con tecnologías relacionadas con desarrollo backend, bases de datos y desarrollo de interfaces.
-
----
-
-## 🚀 Tecnologías que utilizo
-
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
-![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![XML](https://img.shields.io/badge/-XML-black?style=flat-square)
-![XSD](https://img.shields.io/badge/-XSD-black?style=flat-square)
-![JavaFX](https://img.shields.io/badge/-JavaFX-black?style=flat-square&logo=openjdk)
+<p align="center">
+  🎓 Estudiante de DAM · Backend · Bases de Datos · Interfaces
+</p>
 
 ---
 
-## 📊 Estadísticas de GitHub
+# 📊 Dashboard
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubeeen07&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubeeen07&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rubeeen07&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubeeen07&theme=github_dark" />
+</p>
 
 ---
 
-## 📚 Actualmente aprendiendo
+# 📈 Actividad
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubeeen07&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+# 🚀 Core Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,mysql" />
+</p>
+
+<p align="center">
+  XML • XSD • JSON • JavaFX
+</p>
+
+---
+
+# 🧠 Lenguajes más utilizados
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubeeen07&layout=donut&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+# 🔥 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubeeen07&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+# 📌 Proyectos Destacados
+
+| Proyecto | Descripción |
+|---|---|
+| DAM Projects | Proyectos y prácticas del ciclo DAM |
+| JavaFX Apps | Interfaces gráficas con JavaFX |
+| SQL Databases | Bases de datos relacionales |
+| XML/XSD | Validación y estructuras XML |
+
+---
+
+# 📚 Actualmente aprendiendo
+
+- Java avanzado
 - Programación orientada a objetos
-- Bases de datos relacionales
-- Desarrollo de interfaces
-- XML y validación con XSD
-- JavaFX
 - SQL avanzado
+- Interfaces con JavaFX
+- XML y XSD
+- Buenas prácticas de desarrollo
 
 ---
 
-## 📌 Objetivos
+# 🌐 Perfil GitHub
 
-- Seguir mejorando como desarrollador  
-- Aprender nuevas tecnologías  
-  - Crear proyectos cada vez más completos  
-
----
-
-## 📫 Contacto
-
-Puedes encontrarme en GitHub aquí:
-
-👉 https://github.com/rubeeen07
+<p align="center">
+  <a href="https://github.com/rubeeen07">
+    <img src="https://img.shields.io/badge/GitHub-rubeeen07-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
