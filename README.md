@@ -31,7 +31,9 @@
 
 ## 🧠 Lenguajes más utilizados
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubeeen07&layout=donut&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubeeen07&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
