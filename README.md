@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy [Tu Nombre]</h1>
+<h1 align="center">👋 Hola, soy Rubén </h1>
 <h3 align="center">Estudiante de DAM · Apasionado del desarrollo de aplicaciones multiplataforma</h3>
 
 <p align="center">
