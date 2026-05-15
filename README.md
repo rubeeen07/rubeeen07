@@ -31,13 +31,9 @@
 
 ## 🧠 Lenguajes más utilizados
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubeeen07&layout=compact&theme=tokyonight" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubeeen07&theme=tokyonight)
 
----
-
-## 🔥 Actividad y racha de commits
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rubeeen07&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rubeeen07&theme=tokyonight)
 
 ---
 
@@ -54,9 +50,9 @@
 
 ## 📌 Objetivos
 
-🚀 Seguir mejorando como desarrollador  
-📖 Aprender nuevas tecnologías  
-🛠 Crear proyectos cada vez más completos  
+- Seguir mejorando como desarrollador  
+- Aprender nuevas tecnologías  
+  - Crear proyectos cada vez más completos  
 
 ---
 
