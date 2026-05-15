@@ -29,18 +29,6 @@
 
 ---
 
-## 🚀 Tecnologías
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,mysql" />
-</p>
-
-<p align="center">
-  XML • XSD • JSON • JavaFX
-</p>
-
----
-
 ## 📚 Actualmente aprendiendo
 
 - Programación orientada a objetos
