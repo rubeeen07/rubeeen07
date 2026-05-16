@@ -38,7 +38,7 @@
 
 <img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/overview.svg" width="100%"/>
 <br/>
-<img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/languages.svg" width="100%"/>
+
 
 </td>
 </tr>
@@ -79,7 +79,7 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-*(Puedes dejar un espacio en blanco o poner una frase sobre tus intereses)*
+<img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/languages.svg" />
 
 </td>
 </table>
