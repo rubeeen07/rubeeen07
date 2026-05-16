@@ -16,73 +16,77 @@
 
 ---
 
-<!-- SOBRE MÍ + ESTADÍSTICAS -->
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<!-- TABLA ÚNICA DE 2 FILAS Y 2 COLUMNAS (igual altura garantizada) -->
+<table width="100%" style="border: none; table-layout: fixed;">
+  <!-- PRIMERA FILA: Sobre mí | Estadísticas -->
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
+      <h3>🧑‍💻 Sobre mí</h3>
+      <ul>
+        <li>🌐 Cursando <strong>DAM</strong> — Desarrollo de Aplicaciones Multiplataforma</li>
+        <li>👥 Apasionado del desarrollo <strong>backend</strong> y diseño de <strong>bases de datos</strong></li>
+        <li>📄 Me gusta crear interfaces con <strong>JavaFX</strong></li>
+        <li>🚀 Aprendiendo patrones de diseño y buenas prácticas</li>
+        <li>💻 Abierto a colaborar en proyectos y prácticas</li>
+        <li>📍 España</li>
+        <li>✉️ GitHub: <strong>rubeeen07</strong></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
+      <h3>📊 Estadísticas</h3>
+      <ul>
+        <li>⭐ <strong>Stars:</strong> 5</li>
+        <li>🍴 <strong>Forks:</strong> 0</li>
+        <li>📅 <strong>All-time contributions:</strong> 226</li>
+        <li>📝 <strong>Lines of code changed:</strong> 74,758</li>
+        <li>👁️ <strong>Repository views (past two weeks):</strong> 244</li>
+        <li>📁 <strong>Repositories with contributions:</strong> 11</li>
+      </ul>
+    </td>
+  </tr>
 
-### 🧑‍💻 Sobre mí
-
-- 📚 Cursando **DAM** — Desarrollo de Aplicaciones Multiplataforma
-- 💡 Apasionado del desarrollo **backend** y diseño de **bases de datos**
-- 🖥️ Me gusta crear interfaces con **JavaFX**
-- 🌱 Aprendiendo patrones de diseño y buenas prácticas
-- 🤝 Abierto a colaborar en proyectos y prácticas
-- 📍 España
-- ✨ GitHub: **rubeeen07**
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Estadísticas
-
-<img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/overview.svg" width="100%"/>
-<br/>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- TECNOLOGÍAS -->
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-### 🛠️ Tecnologías que utilizo
-
-**Lenguajes**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & UI**  
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
-
-**Datos & Formatos**  
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=w3c&logoColor=white)
-![XSD](https://img.shields.io/badge/XSD-005FAD?style=for-the-badge&logo=w3c&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
-**Bases de datos**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Herramientas**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</td>
-<td width="45%" valign="top" align="center">
-
-### 📈 Lenguajes más usados
-
-<img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/languages.svg" width="100%"/>
-
-</td>
+  <!-- SEGUNDA FILA: Tecnologías | Lenguajes más usados -->
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
+      <h3>🛠️ Tecnologías que utilizo</h3>
+      <h4>Lenguajes</h4>
+      <ul>
+        <li><strong>JAVA</strong> &nbsp;|&nbsp; MySQL</li>
+        <li><strong>SQL</strong> &nbsp;|&nbsp; HTML5</li>
+        <li><strong>CSS3</strong></li>
+      </ul>
+      <h4>Frameworks & UI</h4>
+      <ul><li><strong>JAVAFX</strong></li></ul>
+      <h4>Datos & Formatos</h4>
+      <ul>
+        <li><strong>XML</strong></li>
+        <li><strong>JSON</strong></li>
+      </ul>
+      <h4>Bases de datos</h4>
+      <ul>
+        <li><strong>MySQL</strong></li>
+        <li><strong>MongoDB</strong></li>
+      </ul>
+      <h4>Herramientas</h4>
+      <ul>
+        <li><strong>GitHub</strong></li>
+        <li><strong>IntelliJ IDEA</strong></li>
+        <li><strong>VS Code</strong></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
+      <h3>📈 Lenguajes más utilizados</h3>
+      <ul>
+        <li><strong>Java</strong> ████████████████████ 71.09%</li>
+        <li><strong>Zig</strong> ███ 11.74%</li>
+        <li><strong>CSS</strong> ██ 9.00%</li>
+        <li><strong>HTML</strong> ██ 7.64%</li>
+        <li><strong>XQuery</strong> 0.54%</li>
+      </ul>
+      <br/>
+      <p><em>Según tamaño de archivo en repositorios públicos</em></p>
+    </td>
+  </tr>
 </table>
 
 ---
