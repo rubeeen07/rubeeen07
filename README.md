@@ -1,4 +1,4 @@
-<!-- HEADER -->
+<!-- Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=130&section=header&text=Rubén&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
@@ -16,78 +16,47 @@
 
 ---
 
-<!-- SOBRE MÍ + ESTADÍSTICAS -->
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🧑‍💻 Sobre mí
-
-- 📚 Cursando **DAM** — Desarrollo de Aplicaciones Multiplataforma
-- 💡 Apasionado del desarrollo **backend** y diseño de **bases de datos**
-- 🖥️ Me gusta crear interfaces con **JavaFX**
-- 🌱 Aprendiendo patrones de diseño y buenas prácticas
-- 🤝 Abierto a colaborar en proyectos y prácticas
-- 📍 España
-- ✨ GitHub: **rubeeen07**
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Estadísticas
-
-<img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/overview.svg" width="100%"/>
-<br/>
-
-</td>
-</tr>
-</table>
+<!-- Sección de dos columnas -->
+<table width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none;">
+      <h3>🧑‍💻 Sobre mí</h3>
+      <ul>
+        <li>📚 Cursando <strong>DAM</strong> — Desarrollo de Aplicaciones Multiplataforma</li>
+        <li>💡 Apasionado del desarrollo <strong>backend</strong> y diseño de <strong>bases de datos</strong></li>
+        <li>🖥️ Me gusta crear interfaces con <strong>JavaFX</strong></li>
+        <li>🌱 Aprendiendo patrones de diseño y buenas prácticas</li>
+        <li>🤝 Abierto a colaborar en proyectos y prácticas</li>
+        <li>📍 España</li>
+        <li>✨ GitHub: <strong>rubeeen07</strong></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <h3>📊 Estadísticas</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=rubeeen07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
+    </td>
+   </tr>
+ </table>
 
 ---
 
-<!-- TECNOLOGÍAS -->
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-### 🛠️ Tecnologías que utilizo
-
-**Lenguajes**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & UI**  
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
-
-**Datos & Formatos**  
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=w3c&logoColor=white)
-![XSD](https://img.shields.io/badge/XSD-005FAD?style=for-the-badge&logo=w3c&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
-**Bases de datos**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Herramientas**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</td>
-<td width="45%" valign="top" align="center">
-
-### 📈 Lenguajes más usados
-
-<img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/languages.svg" width="100%"/>
-
-</td>
-</table>
+<!-- Sección de dos columnas para Tecnologías y Lenguajes -->
+<table width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="55%" valign="top" style="border: none;">
+      <h3>🛠️ Tecnologías que utilizo</h3>
+      <!-- Aquí van tus lenguajes, frameworks, etc. -->
+    </td>
+    <td width="45%" valign="top" align="center" style="border: none;">
+      <h3>📈 Lenguajes más usados</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubeeen07&layout=compact&theme=dark&hide_border=true&langs_count=6" width="100%"/>
+    <tr>
+   </tr>
+ </table>
 
 ---
 
-<!-- FOOTER -->
+<!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=80&section=footer" width="100%"/>
 </div>
