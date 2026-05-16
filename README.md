@@ -87,6 +87,7 @@
   </tr>
 </table>
 
----
-
-
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=80&section=footer" width="100%"/>
+</div>
