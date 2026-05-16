@@ -39,7 +39,7 @@
 <!-- Parámetro 'v=1' para forzar recarga si fallaba la caché -->
 <img src="https://github-readme-stats.vercel.app/api?username=rubeeen07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&locale=es&v=1" width="100%"/>
 <br/>
-<img src="https://streak-stats.demolab.com?user=rubeeen07&theme=github-dark-blue&hide_border=true&locale=es&v=1" width="100%"/>
+<img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/overview.svg" />
 
 </td>
 </tr>
@@ -100,7 +100,7 @@
 <br/>
 
 <!-- Cambiado a layout 'compact' que es más fiable que 'donut' -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubeeen07&theme=github_dark&hide_border=true&layout=compact&langs_count=6&v=1" width="90%"/>
+<img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/languages.svg" />
 
 </td>
 </tr>
