@@ -1,4 +1,4 @@
-<!-- HEADER CON OLA VERDE -->
+<!-- HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=130&section=header&text=Rubén&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
@@ -16,7 +16,7 @@
 
 ---
 
-<!-- SECCIÓN DE DOS COLUMNAS: SOBRE MÍ + ESTADÍSTICAS -->
+<!-- TABLA 1: SOBRE MÍ + ESTADÍSTICAS SVG -->
 <table width="100%" style="border: none;">
   <tr style="border: none;">
     <td width="50%" valign="top" style="border: none;">
@@ -29,22 +29,21 @@
 - 🤝 Abierto a colaborar en proyectos y prácticas
 - 📍 España
 - ✨ GitHub: **rubeeen07**
+
     </td>
     <td width="50%" valign="top" style="border: none;">
 
 ### 📊 Estadísticas
-<!-- Tus estadísticas generales con tema oscuro y sin bordes -->
-<img src="https://github-readme-stats.vercel.app/api?username=rubeeen07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
-<br/>
-<!-- Tus lenguajes más usados con tema oscuro y sin bordes -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubeeen07&layout=compact&theme=dark&hide_border=true&langs_count=6" width="100%"/>
+<!-- Tus estadísticas reales con fondo oscuro (desde rama generated) -->
+<img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/overview.svg" width="100%" alt="Estadísticas de GitHub"/>
+
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- SECCIÓN DE DOS COLUMNAS: TECNOLOGÍAS + (RESERVADO) -->
+<!-- TABLA 2: TECNOLOGÍAS + LENGUAJES SVG -->
 <table width="100%" style="border: none;">
   <tr style="border: none;">
     <td width="55%" valign="top" style="border: none;">
@@ -72,27 +71,29 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
     </td>
     <td width="45%" valign="top" align="center" style="border: none;">
 
-<!-- Espacio reservado para futuros contenidos, como un enlace a tu CV -->
-<br/><br/><br/><br/><br/><br/><br/><br/>
-*Próximamente más contenido...*
+### 📈 Lenguajes más utilizados
+<!-- Tus lenguajes reales con fondo oscuro -->
+<img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/languages.svg" width="85%" alt="Lenguajes más usados"/>
+
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- GRÁFICO DE ACTIVIDAD -->
+<!-- OPCIONAL: GRÁFICO DE ACTIVIDAD (comentado por si falla) -->
+<!-- 
 ### 🟩 Actividad de contribuciones
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubeeen07&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=238636&line=238636&point=39d353" width="100%"/>
 </div>
+-->
 
----
-
-<!-- FOOTER CON OLA VERDE -->
+<!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=80&section=footer" width="100%"/>
 </div>
