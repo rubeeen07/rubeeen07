@@ -16,12 +16,13 @@
 
 ---
 
-<!-- TABLA 1: SOBRE MÍ + ESTADÍSTICAS SVG -->
-<table width="100%" style="border: none;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none;">
+<!-- SOBRE MÍ + ESTADÍSTICAS -->
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### 🧑‍💻 Sobre mí
+
 - 📚 Cursando **DAM** — Desarrollo de Aplicaciones Multiplataforma
 - 💡 Apasionado del desarrollo **backend** y diseño de **bases de datos**
 - 🖥️ Me gusta crear interfaces con **JavaFX**
@@ -30,25 +31,28 @@
 - 📍 España
 - ✨ GitHub: **rubeeen07**
 
-    </td>
-    <td width="50%" valign="top" style="border: none;">
+</td>
+<td width="50%" valign="top">
 
 ### 📊 Estadísticas
-<!-- Tus estadísticas reales con fondo oscuro (desde rama generated) -->
-<img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/overview.svg" width="100%" alt="Estadísticas de GitHub"/>
 
-    </td>
-  </tr>
+<img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/overview.svg" width="100%"/>
+<br/>
+<img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/languages.svg" width="100%"/>
+
+</td>
+</tr>
 </table>
 
 ---
 
-<!-- TABLA 2: TECNOLOGÍAS + LENGUAJES SVG -->
-<table width="100%" style="border: none;">
-  <tr style="border: none;">
-    <td width="55%" valign="top" style="border: none;">
+<!-- TECNOLOGÍAS -->
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
 ### 🛠️ Tecnologías que utilizo
+
 **Lenguajes**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -72,26 +76,15 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-    </td>
-    <td width="45%" valign="top" align="center" style="border: none;">
+</td>
+<td width="45%" valign="top" align="center">
 
-### 📈 Lenguajes más utilizados
-<!-- Tus lenguajes reales con fondo oscuro -->
-<img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/languages.svg" width="85%" alt="Lenguajes más usados"/>
+*(Puedes dejar un espacio en blanco o poner una frase sobre tus intereses)*
 
-    </td>
-  </tr>
+</td>
 </table>
 
 ---
-
-<!-- OPCIONAL: GRÁFICO DE ACTIVIDAD (comentado por si falla) -->
-<!-- 
-### 🟩 Actividad de contribuciones
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubeeen07&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=238636&line=238636&point=39d353" width="100%"/>
-</div>
--->
 
 <!-- FOOTER -->
 <div align="center">
