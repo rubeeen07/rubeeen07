@@ -16,41 +16,39 @@
 
 ---
 
-<!-- FILA 1: SOBRE MÍ + ESTADÍSTICAS -->
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<!-- SECCIÓN 1: SOBRE MÍ + ESTADÍSTICAS con tabla HTML para ancho completo -->
+<table width="100%" style="width: 100%; border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none;">
 
 ### 🧑‍💻 Sobre mí
 
-- 📚 Cursando **DAM** — Desarrollo de Aplicaciones Multiplataforma  
-- 💡 Apasionado del desarrollo **backend** y diseño de **bases de datos**  
-- 🖥️ Me gusta crear interfaces con **JavaFX**  
-- 🌱 Aprendiendo patrones de diseño y buenas prácticas  
-- 🤝 Abierto a colaborar en proyectos y prácticas  
-- 📍 España  
+- 📚 Cursando **DAM** — Desarrollo de Aplicaciones Multiplataforma
+- 💡 Apasionado del desarrollo **backend** y diseño de **bases de datos**
+- 🖥️ Me gusta crear interfaces con **JavaFX**
+- 🌱 Aprendiendo patrones de diseño y buenas prácticas
+- 🤝 Abierto a colaborar en proyectos y prácticas
+- 📍 España
 - ✨ GitHub: **rubeeen07**
 
-</td>
-<td width="50%" valign="top">
+    </td>
+    <td width="50%" valign="top" style="border: none;">
 
 ### 📊 Estadísticas
 
-<!-- Servicio público con tema oscuro (fondo negro garantizado) -->
-<img src="https://github-readme-stats.vercel.app/api?username=rubeeen07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubeeen07&layout=compact&theme=dark&hide_border=true&langs_count=6" width="100%"/>
+<!-- Usando solo overview.svg como pide -->
+<img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/overview.svg" width="100%"/>
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 ---
 
-<!-- FILA 2: TECNOLOGÍAS + AJUSTE DE ALTURA (para alinear con la tabla superior) -->
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+<!-- SECCIÓN 2: TECNOLOGÍAS + LENGUAJES con tabla HTML para ancho completo -->
+<table width="100%" style="width: 100%; border: none;">
+  <tr style="border: none;">
+    <td width="55%" valign="top" style="border: none;">
 
 ### 🛠️ Tecnologías que utilizo
 
@@ -77,31 +75,18 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</td>
-<td width="45%" valign="top" align="center">
+    </td>
+    <td width="45%" valign="top" align="center" style="border: none;">
 
-<!-- Saltos de línea para igualar altura con la tabla de arriba -->
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+### 📈 Lenguajes más utilizados
 
-*Estadísticas actualizadas automáticamente*  
-*Los lenguajes reflejan mis repositorios públicos*
+<!-- Incrustando languages.svg como pide -->
+<img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/languages.svg" width="85%"/>
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 ---
 
-<!-- GRÁFICO DE ACTIVIDAD (opcional, si quieres ver las contribuciones) -->
-### 🟩 Actividad de contribuciones
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubeeen07&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=238636&line=238636&point=39d353" width="100%"/>
-</div>
-
----
-
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=80&section=footer" width="100%"/>
-</div>
