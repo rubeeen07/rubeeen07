@@ -79,6 +79,8 @@
 </td>
 <td width="45%" valign="top" align="center">
 
+### 📈 Lenguajes más usados
+
 <img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/languages.svg" />
 
 </td>
