@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h1> Hola, soy Rubén</h1>
+  <h1>👋 Hola, soy Rubén</h1>
   <h3>🎓 Estudiante de DAM · Desarrollo de Aplicaciones Multiplataforma</h3>
   <br/>
   <img src="https://img.shields.io/badge/España-📍-238636?style=flat-square&labelColor=161b22&color=238636" />
@@ -16,29 +16,30 @@
 
 ---
 
-<!-- SOBRE MÍ + ESTADÍSTICAS -->
+<!-- FILA 1: SOBRE MÍ + ESTADÍSTICAS -->
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🧑‍💻 Sobre mí
 
--  Cursando **DAM** — Desarrollo de Aplicaciones Multiplataforma
--  Apasionado del desarrollo **backend** y diseño de **bases de datos**
--  Me gusta crear interfaces con **JavaFX**
--  Aprendiendo patrones de diseño y buenas prácticas
--  Abierto a colaborar en proyectos y prácticas
--  España
--  GitHub: **rubeeen07**
+- 📚 Cursando **DAM** — Desarrollo de Aplicaciones Multiplataforma  
+- 💡 Apasionado del desarrollo **backend** y diseño de **bases de datos**  
+- 🖥️ Me gusta crear interfaces con **JavaFX**  
+- 🌱 Aprendiendo patrones de diseño y buenas prácticas  
+- 🤝 Abierto a colaborar en proyectos y prácticas  
+- 📍 España  
+- ✨ GitHub: **rubeeen07**
 
 </td>
 <td width="50%" valign="top">
 
 ### 📊 Estadísticas
 
-<img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/overview.svg" width="100%"/>
+<!-- Servicio público con tema oscuro (fondo negro garantizado) -->
+<img src="https://github-readme-stats.vercel.app/api?username=rubeeen07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
 <br/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubeeen07&layout=compact&theme=dark&hide_border=true&langs_count=6" width="100%"/>
 
 </td>
 </tr>
@@ -46,7 +47,7 @@
 
 ---
 
-<!-- TECNOLOGÍAS -->
+<!-- FILA 2: TECNOLOGÍAS + AJUSTE DE ALTURA (para alinear con la tabla superior) -->
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
@@ -79,12 +80,24 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-### 📈 Lenguajes más usados
+<!-- Saltos de línea para igualar altura con la tabla de arriba -->
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/languages.svg" />
+*Estadísticas actualizadas automáticamente*  
+*Los lenguajes reflejan mis repositorios públicos*
 
 </td>
+</tr>
 </table>
+
+---
+
+<!-- GRÁFICO DE ACTIVIDAD (opcional, si quieres ver las contribuciones) -->
+### 🟩 Actividad de contribuciones
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubeeen07&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=238636&line=238636&point=39d353" width="100%"/>
+</div>
 
 ---
 
