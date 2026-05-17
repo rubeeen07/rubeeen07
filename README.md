@@ -69,7 +69,7 @@
     <td width="50%" valign="top" style="border: none; padding: 10px;">
       <h3>📈 Lenguajes más utilizados</h3>
       <!-- Imagen languages.svg desde tu rama generated -->
-      <img src="[https://raw.githubusercontent.com/rubeeen07/github-stats/generated/languages.svg](https://raw.githubusercontent.com/rubeeen07/github-stats/refs/heads/generated/languages.svg)" width="100%" alt="Top Languages"/>
+      <img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/languages.svg" width="100%" alt="Top Languages"/>
     </td>
   </tr>
 </table>
