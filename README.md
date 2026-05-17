@@ -23,19 +23,19 @@
     <td width="50%" valign="top" style="border: none; padding: 10px;">
       <h3>🧑‍💻 Sobre mí</h3>
       <ul>
-        <li>📚 Cursando <strong>DAM</strong> — Desarrollo de Aplicaciones Multiplataforma</li>
-        <li>💡 Apasionado del desarrollo <strong>backend</strong> y diseño de <strong>bases de datos</strong></li>
-        <li>🖥️ Me gusta crear interfaces con <strong>JavaFX</strong></li>
-        <li>🌱 Aprendiendo patrones de diseño y buenas prácticas</li>
-        <li>🤝 Abierto a colaborar en proyectos y prácticas</li>
-        <li>📍 España</li>
-        <li>✨ GitHub: <strong>rubeeen07</strong></li>
+        <li> Cursando <strong>DAM</strong> — Desarrollo de Aplicaciones Multiplataforma</li>
+        <li> Apasionado del desarrollo <strong>backend</strong> y diseño de <strong>bases de datos</strong></li>
+        <li> Me gusta crear interfaces con <strong>JavaFX</strong></li>
+        <li> Aprendiendo patrones de diseño y buenas prácticas</li>
+        <li> Abierto a colaborar en proyectos y prácticas</li>
+        <li> España</li>
+        <li> GitHub: <strong>rubeeen07</strong></li>
       </ul>
     </td>
     <td width="50%" valign="top" style="border: none; padding: 10px;">
       <h3>📊 Estadísticas</h3>
       <!-- Imagen overview.svg desde tu rama generated -->
-      <img src="https://github-readme-stats.vercel.app/api?username=rubeeen07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+       <img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/overview.svg" width="100%" alt="GitHub Stats"/>
     </td>
   </tr>
 
