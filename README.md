@@ -17,10 +17,10 @@
 ---
 
 <!-- TABLA ÚNICA: 2 FILAS x 2 COLUMNAS (mismo ancho de columna garantizado) -->
-<table width="100%" style="border: none; table-layout: fixed;">
+<table width="100%" style="border: none; table-layout: fixed; background-color: #0d1117;">
   <!-- FILA 1: SOBRE MÍ | ESTADÍSTICAS (imagen overview.svg) -->
   <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none; padding: 10px;">
+    <td width="50%" valign="top" style="border: none; padding: 10px; background-color: #0d1117;">
       <h3>🧑‍💻 Sobre mí</h3>
       <ul>
         <li> Cursando <strong>DAM</strong> — Desarrollo de Aplicaciones Multiplataforma</li>
@@ -32,16 +32,15 @@
         <li> GitHub: <strong>rubeeen07</strong></li>
       </ul>
     </td>
-    <td width="50%" valign="top" style="border: none; padding: 10px;">
+    <td width="50%" valign="top" style="border: none; padding: 10px; background-color: #0d1117;">
       <h3>📊 Estadísticas</h3>
-      <!-- Imagen overview.svg desde tu rama generated -->
-       <img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/overview.svg" width="100%" alt="GitHub Stats"/>
+      <img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/overview.svg" width="100%" alt="GitHub Stats"/>
     </td>
   </tr>
 
   <!-- FILA 2: TECNOLOGÍAS | LENGUAJES MÁS USADOS (imagen languages.svg) -->
   <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none; padding: 10px;">
+    <td width="50%" valign="top" style="border: none; padding: 10px; background-color: #0d1117;">
       <h3>🛠️ Tecnologías que utilizo</h3>
       <strong>Lenguajes</strong><br/>
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -66,9 +65,8 @@
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
     </td>
-    <td width="50%" valign="top" style="border: none; padding: 10px;">
+    <td width="50%" valign="top" style="border: none; padding: 10px; background-color: #0d1117;">
       <h3>📈 Lenguajes más utilizados</h3>
-      <!-- Imagen languages.svg desde tu rama generated -->
       <img src="https://raw.githubusercontent.com/rubeeen07/github-stats/generated/languages.svg" width="100%" alt="Top Languages"/>
     </td>
   </tr>
@@ -76,7 +74,7 @@
 
 ---
 
-<!-- GRÁFICO DE ACTIVIDAD (opcional, fuera de la tabla para no afectar alineación) -->
+<!-- GRÁFICO DE ACTIVIDAD -->
 ### 🟩 Actividad de contribuciones
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubeeen07&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=238636&line=238636&point=39d353" width="100%"/>
